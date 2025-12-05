@@ -1,0 +1,9 @@
+{
+	"name": "Spotifyes-DF-Projects",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "341fd89b-d798-4744-8ce7-cd488cb6858c",
+		"tenantId": "6899db0d-3038-45eb-9980-c15cb0cc1a26"
+	}
+}
